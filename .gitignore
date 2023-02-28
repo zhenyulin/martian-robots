@@ -1,0 +1,12 @@
+# cache
+**.ipynb_checkpoints**
+**pycache**
+cache/_**
+
+# sensitive
+**credential**
+output/**
+notebook/**
+
+# test
+.coverage
